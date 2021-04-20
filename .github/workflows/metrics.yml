@@ -39,3 +39,4 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: mastered
+          config_order: base.header, isocalendar, languages, notable, topics
