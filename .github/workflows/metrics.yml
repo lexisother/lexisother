@@ -19,7 +19,7 @@ jobs:
           # Options
           user: lexisother
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories
           config_timezone: Europe/Amsterdam
           config_twemoji: yes
           plugin_activity: yes
@@ -39,4 +39,4 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: mastered
-          config_order: base.header, isocalendar, base.activity, base.repositories, notable, followup, languages, topics, activity
+          config_order: base, isocalendar, notable, followup, languages, topics, activity
