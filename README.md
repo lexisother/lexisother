@@ -1,1 +1,1 @@
-![Metrics](https://raw.githubusercontent.com/gist/lexisother/d3b5ce8669d61fed1ba0f61b06c62f22/raw/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/gist/lexisother/c41e74d7c64594526d8c6dc5c77adc23/raw/github-metrics.svg)
