@@ -40,3 +40,6 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: mastered
           config_order: base.header, isocalendar, base.activity+community, base.repositories, notable, followup, languages, topics, activity
+          
+          committer_gist: c41e74d7c64594526d8c6dc5c77adc23
+          output_action: gist
