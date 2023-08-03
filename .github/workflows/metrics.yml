@@ -36,6 +36,14 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_notable: yes
+          plugin_music: yes
+          plugin_music_limit: 4
+          plugin_music_mode: recent
+          plugin_music_provider: lastfm
+          plugin_music_time_range: short
+          plugin_music_top_type: tracks
+          plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
+          plugin_music_user: solelychloe
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: mastered
